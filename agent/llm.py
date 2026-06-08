@@ -41,7 +41,7 @@ else:
     api_url = os.getenv("LLM_API_URL")
     username = os.getenv("LLM_USERNAME")
     password = os.getenv("LLM_PASSWORD")
-    model_name = os.getenv("LLM_MODEL", "qwen3:30b-a3b-q4_K_M")
+    model_name = os.getenv("LLM_MODEL", "openai/gpt-oss-20b")
     
     if api_url:
         base_url = api_url.replace("/api/generate", "").replace("/api/chat", "")
