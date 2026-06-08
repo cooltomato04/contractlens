@@ -19,7 +19,8 @@ if groq_key:
         openai_api_base="https://api.groq.com/openai/v1",
         openai_api_key=groq_key,
         model=model_name,
-        temperature=0.0
+        temperature=0.0,
+        max_retries=10
     )
     llm = chat_model | StrOutputParser()
     
