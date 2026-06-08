@@ -14,7 +14,7 @@ if groq_key:
     # Production deployment using Groq Cloud API
     from langchain_openai import ChatOpenAI
     
-    model_name = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+    model_name = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
     chat_model = ChatOpenAI(
         openai_api_base="https://api.groq.com/openai/v1",
         openai_api_key=groq_key,
