@@ -6,11 +6,25 @@ from langchain_core.output_parsers import StrOutputParser
 # Load environment variables
 load_dotenv()
 
-# Check for production API key
+# Check for production API keys
+groq_key = os.getenv("GROQ_API_KEY")
 anthropic_key = os.getenv("ANTHROPIC_API_KEY")
 
-if anthropic_key:
-    # Production deployment using Claude
+if groq_key:
+    # Production deployment using Groq Cloud API
+    from langchain_openai import ChatOpenAI
+    
+    model_name = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+    chat_model = ChatOpenAI(
+        openai_api_base="https://api.groq.com/openai/v1",
+        openai_api_key=groq_key,
+        model=model_name,
+        temperature=0.0
+    )
+    llm = chat_model | StrOutputParser()
+    
+elif anthropic_key:
+    # Alternative production deployment using Claude
     from langchain_anthropic import ChatAnthropic
     
     chat_model = ChatAnthropic(
@@ -19,6 +33,7 @@ if anthropic_key:
         temperature=0.0
     )
     llm = chat_model | StrOutputParser()
+    
 else:
     # Development mode using local Ollama model
     from langchain_community.llms import Ollama
