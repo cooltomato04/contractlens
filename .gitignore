@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Sensitive Information
+.env
+.env.*
+!.env.example
+
+# Local Chroma Database
+data/chromadb/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db

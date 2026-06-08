@@ -1,0 +1,11 @@
+langchain
+langchain-anthropic
+langchain-community
+langgraph
+chromadb
+chainlit
+guardrails-ai
+pypdf
+python-docx
+sentence-transformers
+python-dotenv

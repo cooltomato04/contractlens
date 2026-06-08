@@ -1,0 +1,129 @@
+What Is the PDPA Malaysia and Why Does It Matter in 2026?
+PDPA compliance Malaysia is a mandatory obligation for every business that processes personal data of Malaysian individuals. The Personal Data Protection Act 2010 (PDPA) is Malaysia’s primary legislation governing the collection, processing, and storage of personal data. Following significant amendments enacted in 2024 — including mandatory data breach notification, enhanced consent requirements, and expanded penalties — PDPA compliance is more critical than ever for Malaysian businesses.
+
+Key Takeaways
+PDPA compliance is mandatory for all Malaysian businesses that process personal data in commercial transactions
+The 2024 PDPA amendments introduced mandatory 72-hour breach notification for breaches affecting 500 or more data subjects
+Non-compliance risks fines up to RM 500,000 per offence plus potential imprisonment for senior management
+Financial institutions must satisfy both PDPA and BNM RMiT obligations simultaneously
+A 12-item PDPA compliance checklist is provided in this guide to help you self-assess your current posture
+Every Malaysian business that processes personal data of Malaysian individuals — whether as an employer, service provider, or e-commerce operator — is subject to the PDPA. Non-compliance risks fines up to RM 500,000 per offence and potential imprisonment for responsible officers.
+
+The 7 PDPA Data Protection Principles
+The PDPA is structured around seven core data protection principles that data users (organisations) must comply with:
+
+General Principle: Personal data must only be processed with the data subject’s consent and in accordance with the stated purpose.
+Notice and Choice Principle: Data subjects must be informed about the purpose of data collection and given the option to opt out of direct marketing.
+Disclosure Principle: Personal data must not be disclosed to third parties without consent unless permitted by law.
+Security Principle: Practical steps must be taken to protect personal data from loss, misuse, modification, or unauthorised access. This includes technical controls (encryption, access controls) and organisational controls (policies, training).
+Retention Principle: Personal data must not be retained longer than necessary for the purpose for which it was collected.
+Data Integrity Principle: Personal data must be accurate, complete, and up-to-date.
+Access Principle: Data subjects have the right to access their personal data and to correct inaccurate data.
+2024 PDPA Amendments: What’s New
+The 2024 amendments to the PDPA introduced several significant changes that all data users must address:
+
+Mandatory Data Breach Notification: Data users must notify the Personal Data Protection Commissioner (PDPC) and affected individuals within a prescribed period (guidance expected from PDPC) following a data breach that poses a risk to data subjects.
+Data Protection Officer (DPO) Requirement: Certain classes of data users may be required to appoint a Data Protection Officer (DPO). The PDPC is expected to issue further guidance on which organisations must designate a DPO.
+Enhanced Penalties: Fines for PDPA offences have been increased, with the maximum fine now at RM 500,000 per offence. For ongoing offences (such as continuing to process data without consent), additional daily fines may apply.
+Expanded Data Subject Rights: Data subjects now have enhanced rights including the right to data portability and expanded access rights.
+PDPA Compliance Roadmap: 8 Steps for Malaysian Businesses
+Follow this structured roadmap to achieve and maintain PDPA compliance:
+
+Data Mapping and Inventory: Identify all personal data your organisation collects, where it is stored, who has access, how long it is retained, and with whom it is shared. A data flow diagram is an essential output of this exercise.
+Privacy Policy Review: Update your website privacy policy and data collection notices to accurately reflect your data processing activities. Ensure plain-language consent mechanisms are in place.
+Consent Management: Implement proper consent capture mechanisms for all data collection points — website forms, mobile apps, customer onboarding, and HR data collection. Document consent records.
+Security Controls Implementation: Address the PDPA Security Principle by implementing appropriate technical controls: encryption at rest and in transit, access controls, multi-factor authentication, and regular security assessments (penetration testing).
+Data Retention Policy: Establish and enforce a data retention schedule. Implement automated deletion of personal data beyond the retention period.
+Third-Party Data Processing Agreements: Audit all vendors and service providers that process personal data on your behalf. Ensure data processing agreements (DPAs) are in place that obligate vendors to equivalent PDPA standards.
+Data Breach Response Procedure: Develop a documented data breach response procedure aligned with the mandatory notification requirements. Test the procedure via tabletop exercises.
+Staff Training and Awareness: Train all staff who handle personal data on PDPA obligations, data handling best practices, and how to recognise and report a potential data breach.
+PDPA and Cybersecurity: The Connection
+PDPA compliance and cybersecurity are inseparable. The PDPA Security Principle (Principle 4) requires organisations to implement practical steps to protect personal data. Regulatorily, this means:
+
+Conducting regular vulnerability assessments and penetration testing
+Implementing security monitoring (SIEM/SOC) to detect unauthorised access
+Maintaining audit logs of who accesses personal data and when
+Encrypting personal data stored in databases and transmitted over networks
+Implementing access controls based on the principle of least privilege
+A data breach resulting from inadequate cybersecurity controls creates dual liability — both under PDPA (for failure to protect personal data) and potentially under the Cyber Security Act 2024 (for CNII entities that fail to report the incident to NACSA). Malaysian businesses should also be aware that CyberSecurity Malaysia’s MyCERT provides incident advisory support and can be contacted via mycert.org.my. Simply Data cybersecurity services are specifically designed to help Malaysian businesses satisfy both the PDPA Security Principle and the CSA 2024 compliance requirements.
+
+PDPC Enforcement: Real Cases and Lessons
+The PDPC has taken enforcement action against Malaysian data users across multiple sectors. Financial institutions regulated by Bank Negara Malaysia (BNM) face additional obligations under RMiT to protect customer data, and a PDPA breach at a BNM-regulated entity triggers parallel reporting duties to both the PDPC and BNM., with key lessons including:
+
+Healthcare providers have faced action for inadequate access controls on patient records and failure to secure electronic health information.
+E-commerce and financial services companies have been investigated following data breaches that exposed customer financial and personal data.
+Telecommunications companies have faced enforcement action for unauthorised disclosure of subscriber personal data.
+Common themes across enforcement cases include: inadequate technical security controls, failure to implement proper consent mechanisms, excessive data retention, and lack of documented data processing policies.
+
+PDPA vs GDPR: What Malaysian Businesses Need to Know
+If your business serves customers in the European Union, you are subject to both the PDPA and the General Data Protection Regulation (GDPR). While both frameworks share core principles around consent and data subject rights, there are key differences Malaysian businesses must understand:
+
+Territorial Scope: PDPA applies to data processors established in Malaysia. GDPR applies to any organisation that processes data of EU residents, regardless of where that organisation is located.
+Legal Basis for Processing: GDPR provides six lawful bases including legitimate interest. PDPA is more consent-centric, though exceptions exist for statutory obligations and legal proceedings.
+Right to Erasure: GDPR includes a right to erasure (“right to be forgotten”). PDPA grants data subjects the right to correct inaccurate data but does not include an equivalent blanket deletion right.
+Breach Notification: GDPR requires authority notification within 72 hours. Malaysia’s 2024 amendments require PDPC notification within 72 hours for qualifying breaches affecting 500 or more data subjects.
+Penalties: GDPR maximum fines reach 4% of global annual turnover or €20 million. Malaysia’s cap is RM 500,000 per offence — lower in absolute terms, but reputational and operational consequences are equally severe.
+For Malaysian businesses with international operations, a dual-compliance approach — aligning PDPA with GDPR or ISO 27701, the privacy extension to ISO 27001 — is strongly recommended to avoid regulatory exposure across multiple jurisdictions.
+
+Industry-Specific PDPA Obligations in Malaysia
+While the PDPA applies broadly across all commercial sectors, certain industries face heightened obligations due to sector-specific frameworks that operate alongside the PDPA:
+
+Financial Services and Banking (BNM RMiT)
+Banks and financial institutions regulated by Bank Negara Malaysia must comply with the Risk Management in Technology (RMiT) framework in addition to the PDPA. RMiT imposes specific requirements on data governance, cyber risk management, and incident reporting. Financial institutions must report significant cyber incidents to BNM within prescribed timeframes — obligations that directly overlap with PDPA breach notification requirements. Failure to satisfy both simultaneously creates compounded regulatory risk.
+
+Healthcare
+Healthcare providers process some of the most sensitive categories of personal data under the PDPA — patient medical records, diagnoses, prescription histories, and treatment outcomes. The PDPA’s Sensitive Personal Data provisions impose stricter processing requirements. Patient data must not be processed without explicit written consent, and transfers to third parties such as insurance companies or research institutions require documented justification and legal review.
+
+Human Resources and Employment Data
+Employers in Malaysia process extensive volumes of personal data: payroll records, performance reviews, medical certificates, and background check results. The PDPA applies to all employee data regardless of headcount. Employers must issue a Personal Data Protection Notice to employees at the point of collection and maintain retention schedules that comply with both the Employment Act 1955 and PDPA obligations simultaneously.
+
+E-Commerce and Digital Platforms
+Online retailers and digital service providers are among the highest-risk categories for PDPA non-compliance, given the volume of transaction and behavioural data collected. Key obligations include publishing a compliant privacy notice, obtaining valid consent for marketing communications, implementing adequate security measures for payment data in conjunction with PCI-DSS requirements, and maintaining a mechanism for data subject access and correction requests.
+
+Do You Need a Data Protection Officer (DPO) in Malaysia?
+The 2024 PDPA amendments introduced provisions around Data Protection Officers, signalling Malaysia’s alignment with international best practice. While DPO appointment is not yet universally mandatory, the PDPC has issued guidance recommending DPOs for higher-risk processing activities. The following organisations should appoint a DPO proactively:
+
+Organisations that process personal data on a large scale as a core business activity — healthcare providers, banks, HR technology platforms, and telecoms companies
+Organisations that conduct systematic monitoring of individuals — CCTV operators, user behaviour analytics platforms, or employee monitoring systems
+Organisations subject to BNM, the Securities Commission, or other sector regulators that have issued their own DPO guidance
+Any organisation that has experienced a data breach or PDPC inquiry in the past three years
+A DPO advises on PDPA obligations, monitors internal compliance, conducts staff training, and acts as the primary point of contact with the PDPC. Simply Data offers a Virtual DPO service — combining legal, compliance, and technical expertise — for organisations that need DPO coverage without the cost of a full-time hire.
+
+PDPA Compliance Checklist for Malaysian Businesses
+Use this checklist to perform a rapid self-assessment of your PDPA compliance posture. Each item represents a key obligation under the PDPA and its 2024 amendments:
+
+☐ Privacy Notice: Published on your website and provided to data subjects at the point of collection, covering all processing purposes
+☐ Consent Management: Valid, informed consent obtained for all marketing communications; opt-out mechanism is functional
+☐ Data Mapping: Current inventory of all personal data collected, stored, processed, and shared with third parties
+☐ Third-Party Processor Contracts: Written agreements with all data processors include PDPA-compliant data protection clauses
+☐ Data Breach Response Plan: Documented incident response procedure with PDPC notification workflow (72-hour clock for qualifying breaches)
+☐ Retention and Disposal Policy: Personal data deleted or anonymised when no longer needed for the original processing purpose
+☐ Employee Training: All staff who handle personal data have received PDPA awareness training in the past 12 months
+☐ Access Controls: Role-based access controls in place; personal data accessible only to those with a legitimate business need
+☐ Technical Security Measures: Encryption at rest and in transit, vulnerability management, and security monitoring deployed
+☐ Cross-Border Transfer Assessment: International data transfers reviewed against PDPC adequacy standards and documented
+☐ Data Subject Request Procedure: Documented process for handling access, correction, and consent withdrawal requests
+☐ Annual Compliance Review: PDPA compliance formally reviewed at least annually or following significant system or business changes
+If your organisation cannot check eight or more of these boxes, a formal PDPA gap assessment is recommended before you face a PDPC inquiry, a data breach notification obligation, or a regulatory audit.
+
+Conclusion
+PDPA compliance in Malaysia requires a combination of legal, operational, and technical measures. The 2024 amendments have significantly raised the stakes — mandatory breach notification, enhanced penalties, and potential DPO requirements mean that a tick-box approach is no longer sufficient.
+
+Simply Data provides end-to-end PDPA compliance support — from data mapping and gap assessments to technical security controls and ongoing monitoring. Our VAPT services help satisfy the PDPA Security Principle, while our Managed SOC provides the continuous monitoring required for early breach detection and regulatory notification within required timeframes. Contact us for a PDPA compliance assessment.
+
+About the Author: This article is written and reviewed by the Simply Data cybersecurity team — certified security professionals with expertise in Malaysian cybersecurity regulations, NACSA compliance, BNM RMiT, and enterprise security operations. Simply Data Sdn. Bhd. is a NACSA-licensed cybersecurity service provider based in Kuala Lumpur, Malaysia.
+
+Does every Malaysian business need to comply with the PDPA?
+Yes — any organisation that processes personal data of Malaysian data subjects in the course of a commercial transaction is subject to the PDPA 2010. This includes local companies, foreign companies with operations in Malaysia, employers processing employee data, e-commerce operators, healthcare providers, and financial institutions. Non-commercial processing (e.g., purely personal use) is exempt. The 2024 amendments extended obligations to include mandatory breach notification and potential DPO requirements, so even businesses that previously assessed themselves as compliant should review their position.
+
+What happens if a Malaysian business has a data breach?
+Under the 2024 PDPA amendments, Malaysian businesses must notify the Personal Data Protection Commissioner (PDPC) and affected individuals when a data breach poses a risk to data subjects. Failure to notify carries fines of up to RM 500,000. If the organisation is a CNII entity under the Cyber Security Act 2024, it must also notify NACSA within the prescribed timeframe. Financial institutions regulated by Bank Negara Malaysia (BNM) must additionally notify BNM under RMiT requirements. CyberSecurity Malaysia’s MyCERT can provide technical incident response advisory support.
+
+How does PDPA compliance in Malaysia relate to ISO 27001?
+ISO 27001 and PDPA compliance are highly complementary. ISO 27001 certification demonstrates that an organisation has implemented a systematic Information Security Management System (ISMS) — which directly satisfies the PDPA Security Principle (Principle 4) requiring practical steps to protect personal data. Organisations certified under ISO 27001 are well-positioned to evidence PDPA compliance to the PDPC, particularly around access controls, audit logging, incident response, and vendor management. Simply Data can help Malaysian businesses pursue both PDPA compliance and ISO 27001 certification through a unified cybersecurity programme.
+
+What are the 7 PDPA principles in Malaysia?
+The seven PDPA principles are: (1) General — data must be processed lawfully and fairly; (2) Notice and Choice — data subjects must be informed of the processing purpose; (3) Disclosure — data must not be shared beyond the stated purpose without consent; (4) Security — appropriate technical and organisational safeguards must be in place; (5) Retention — data must not be kept longer than necessary; (6) Data Integrity — data must remain accurate and current; and (7) Access — data subjects have the right to access and correct their data. The 2024 amendments strengthened enforcement of the Security and Retention principles in particular.
+
+How much does a PDPA compliance audit cost in Malaysia?
+The cost varies by organisation size and complexity. For SMEs, a basic PDPA gap assessment typically ranges from RM 5,000 to RM 15,000. For larger organisations with complex data flows or BNM RMiT obligations, a comprehensive audit may range from RM 20,000 to RM 50,000 or more. Ongoing PDPA compliance support — including Virtual DPO services, staff training, policy reviews, and technical security assessments — is typically structured as a monthly retainer. Contact Simply Data for a scoped PDPA compliance assessment.
